@@ -1,0 +1,8 @@
+# Ignore python virtual environment
+.venv/
+
+# Ignore __pycache__ being saved
+__pycache__/
+
+# Ignore nba_api calls used
+nba_api.txt
