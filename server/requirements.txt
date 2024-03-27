@@ -1,5 +1,8 @@
 flask
 nba_api
 pandas
+numpy
 python-dotenv
 ipykernal
+scikit-learn
+matplotlib
