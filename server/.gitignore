@@ -3,3 +3,6 @@
 
 # Ignore __pycache__ being saved
 __pycache__/
+
+# Ignore random jupyter notebook used to test
+model/random.ipynb
